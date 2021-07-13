@@ -22,12 +22,12 @@ function ProfileSidebar(propriedades) {
 export default function Home() {
   const githubUser = "Nathalia-Urenha";
   const pessoasFavoritas = [
+    "igorsromero",
     "juunegreiros",
     "omariosouto",
     "peas",
     "rafaballerini",
     "marcobrunodev",
-    "felipefialho",
   ];
 
   return (
